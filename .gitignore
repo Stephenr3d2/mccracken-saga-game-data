@@ -1,0 +1,14 @@
+# Environment
+.env
+.env.local
+secrets/
+
+# OS
+.DS_Store
+Thumbs.db
+*.swp
+
+# Temporary
+*.tmp
+~*
+.cache/
